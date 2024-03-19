@@ -124,7 +124,7 @@ In this project, you will be tasked with implementing the following key features
 
 ### **Deadline:**
 
-- 60 marks: February 24, 2024 11.59 PM
+- 60 marks: March 24, 2024 11.59 PM
 - 50 marks: March 25, 2024 11.59 PM
 - No 30 Marks Deadline
 
